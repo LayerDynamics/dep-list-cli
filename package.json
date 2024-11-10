@@ -1,0 +1,23 @@
+{
+	"name": "dep-list-cli",
+	"version": "1.0.0",
+	"main": "index.js",
+	"bin": {
+		"dep-list-cli": "index.js"
+	},
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "LayerDynamics",
+	"license": "MIT",
+	"description": "",
+	"dependencies": {
+		"@babel/parser": "^7.26.2",
+		"chalk": "^4.1.2",
+		"commander": "^12.1.0",
+		"fast-glob": "^3.3.2",
+		"ignore": "^6.0.2"
+	}
+}
