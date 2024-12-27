@@ -14,7 +14,7 @@
 	"license": "MIT",
 	"description": "",
 	"dependencies": {
-		"@babel/parser": "^7.26.2",
+		"@babel/parser": "^7.26.3",
 		"chalk": "^4.1.2",
 		"commander": "^12.1.0",
 		"fast-glob": "^3.3.2",
